@@ -9,7 +9,7 @@ I am a person who writes and thinks with my own head.
 [![Instagram](https://img.shields.io/badge/-@quadronxgod-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/quadronxgod)](https://instagram.com/quadronxgod)
 <br> 
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)[discord] <b> QGunGod !#2952
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)<b> QGunGod !#2952
 
 
 
