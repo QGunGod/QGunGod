@@ -1,5 +1,5 @@
 ### Quadron ! 
-[](https://media.tenor.com/images/6345d892f8863c7b067b766d1c768382/tenor.gif)
+[](https://media.tenor.com/images/1c5c0af7ea171da6c37568d79b5f3da5/tenor.gif)
 
 Ben kendi kafasıyla yazan ve düşünen bir insanım
 I am a person who writes and thinks with my own head.
