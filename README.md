@@ -3,7 +3,7 @@ Ben kendi kafasıyla yazan ve düşünen bir insanım
 I am a person who writes and thinks with my own head.
 
 ### İletişim / Contact 
-[![Discord](**https://aslangamestudio.com/tr/wp-content/uploads/2021/04/discord-mascot.png**)
+[![Discord](https://aslangamestudio.com/tr/wp-content/uploads/2021/04/discord-mascot.png)
 
 ### My Projects
 
