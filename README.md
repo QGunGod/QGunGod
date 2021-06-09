@@ -18,7 +18,7 @@ Bazen sadece evreni kendi kafanda kodlarsın =)
   <br>
  [<img align="left" alt="QuadronxGod | QL-RP" width="120px" src="https://cdn.discordapp.com/attachments/850026294015557673/851609423218475048/LOGO_1.png" />][ql-rp] <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=68792s27uxas4tbcpjnqjzsht&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=68792s27uxas4tbcpjnqjzsht&redirect=true)
+<br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=68792s27uxas4tbcpjnqjzsht&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=68792s27uxas4tbcpjnqjzsht&redirect=true)
 
   
 [ql-rp]: https://discord.gg/K3fQPXAcSu
