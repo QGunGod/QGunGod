@@ -15,7 +15,7 @@
 ### My active projects / Aktif Projelerim!
   QL - Roleplay Founder / Developer 
   <br>
- [<img align="left" alt="QuadronxGod | QL-RP" width="80px" src="https://cdn.discordapp.com/attachments/850026294015557673/851609423218475048/LOGO_1.png" />][ql-rp]
+ [<img align="left" alt="QuadronxGod | QL-RP" width="120px" src="https://cdn.discordapp.com/attachments/850026294015557673/851609423218475048/LOGO_1.png" />][ql-rp]
 
   
 [ql-rp]: https://discord.gg/K3fQPXAcSu
