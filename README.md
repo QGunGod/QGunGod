@@ -2,8 +2,8 @@
 ![](https://media.tenor.com/images/1c5c0af7ea171da6c37568d79b5f3da5/tenor.gif)
 
 <strong> En iyisi! <br>
-<strong> The best!
-  Bazen sadece evreni kendi kafanda kodlarsın =)
+<strong> The best! <br>
+Bazen sadece evreni kendi kafanda kodlarsın =)
 
 
 ### İletişim / Contact 
