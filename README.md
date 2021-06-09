@@ -3,7 +3,6 @@
 
 <strong> En iyisi! <br>
 <strong> The best! <br>
-Bazen sadece evreni kendi kafanda kodlarsın =)
 
 
 ### İletişim / Contact 
