@@ -9,5 +9,5 @@ I am a person who writes and thinks with my own head.
 [![Instagram Badge](https://img.shields.io/badge/-@quadronxgod-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/quadronxgod)](https://instagram.com/quadronxgod)
 [![Discord](https://img.shields.io/discord/850026293537669150?label=QL-RP&logo=discord&style=social)](https://discord.gg/K3fQPXAcSu)
 <br>
-Şahsi discordum : QGunGod !#2952
+<strong> My Discord / : QGunGod !#2952
 
