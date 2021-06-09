@@ -23,4 +23,4 @@ Bazen sadece evreni kendi kafanda kodlarsın =)
   
 <br />
   
-[<align "left"[spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=68792s27uxas4tbcpjnqjzsht&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[[spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=68792s27uxas4tbcpjnqjzsht&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
