@@ -12,9 +12,9 @@
 <strong> My Discord / : QGunGod !#2952
 ***
 
-  
+  ### My Spotify Activity
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=68792s27uxas4tbcpjnqjzsht&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=68792s27uxas4tbcpjnqjzsht&redirect=true)
-  
+  ***
   
   ### My active projects / Aktif Projelerim!
   QL - Roleplay Founder / Developer and QL - Roleplay Open Source based plugin and skript world! <br>
@@ -24,7 +24,7 @@
   
 [ql-rp]: https://discord.gg/K3fQPXAcSu
   
-  
+  ***
 ### Quadron Skills
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
