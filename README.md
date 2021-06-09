@@ -6,6 +6,7 @@
 ### Quadron Skills
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### İletişim / Contact 
 [![Gmail](https://img.shields.io/badge/-quadronxgod@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quadronxgod@gmail.com)](mailto:quadronxgod@gmail.com)
