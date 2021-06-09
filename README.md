@@ -21,6 +21,6 @@ Bazen sadece evreni kendi kafanda kodlarsın =)
   
 [ql-rp]: https://discord.gg/K3fQPXAcSu
   
-<br />
+
   
 [[https://spotify-github-profile.vercel.app/api/view.svg?uid=68792s27uxas4tbcpjnqjzsht&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=68792s27uxas4tbcpjnqjzsht&cover_image=true&theme=default)]]
