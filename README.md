@@ -1,7 +1,7 @@
 ### Quadron Palace
 ![](https://media.tenor.com/images/1c5c0af7ea171da6c37568d79b5f3da5/tenor.gif)
 
-En iyisi! <br>
+<bold> En iyisi! <br>
 The best!
 
 
