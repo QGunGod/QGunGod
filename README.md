@@ -15,4 +15,7 @@
 ### My active projects / Aktif Projelerim!
   QL - Roleplay Founder / Developer 
   <br>
- [<img align="left" alt="utkuali | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram]
+ [<img align="left" alt="QuadronxGod | QL-RP" width="80px" src="https://cdn.discordapp.com/attachments/850026294015557673/851609423218475048/LOGO_1.png" />][ql-rp]
+
+  
+[ql-rp]: https://discord.gg/K3fQPXAcSu
