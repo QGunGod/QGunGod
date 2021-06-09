@@ -7,4 +7,4 @@ I am a person who writes and thinks with my own head.
 ### İletişim / Contact 
 [![Gmail](https://img.shields.io/badge/-quadronxgod@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quadronxgod@gmail.com)](mailto:quadronxgod@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@quadronxgod-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/quadronxgod)](https://instagram.com/quadronxgod)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/K3fQPXAcSu)](https://discord.gg/K3fQPXAcSu)
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/K3fQPXAcSu)
