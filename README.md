@@ -16,11 +16,12 @@ Bazen sadece evreni kendi kafanda kodlarsın =)
 ### My active projects / Aktif Projelerim!
   QL - Roleplay Founder / Developer and QL - Roleplay Open Source based plugin and skript world!
   <br>
- [<img align="left" alt="QuadronxGod | QL-RP" width="120px" src="https://cdn.discordapp.com/attachments/850026294015557673/851609423218475048/LOGO_1.png" />][ql-rp]
+ [<img align="left" alt="QuadronxGod | QL-RP" width="120px" src="https://cdn.discordapp.com/attachments/850026294015557673/851609423218475048/LOGO_1.png" />][ql-rp] <br>
+  
+  
+ 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=68792s27uxas4tbcpjnqjzsht&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=68792s27uxas4tbcpjnqjzsht&redirect=true)
+
 
   
 [ql-rp]: https://discord.gg/K3fQPXAcSu
-  
-
-
-position : left  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=68792s27uxas4tbcpjnqjzsht&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=68792s27uxas4tbcpjnqjzsht&redirect=true)
