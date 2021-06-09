@@ -22,4 +22,5 @@ Bazen sadece evreni kendi kafanda kodlarsın =)
 [ql-rp]: https://discord.gg/K3fQPXAcSu
   
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=68792s27uxas4tbcpjnqjzsht&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=68792s27uxas4tbcpjnqjzsht&redirect=true)
+
+position : left  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=68792s27uxas4tbcpjnqjzsht&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=68792s27uxas4tbcpjnqjzsht&redirect=true)
